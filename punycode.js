@@ -13,7 +13,7 @@ the Unicode name "點看" to it's punycode representation "xn--c1yn36f",
 conversely, the 'punycode.toUnicode()' function converts the punycode name
 back to its Unicode representation.
 */
-
+ 
 const punycode = require('punycode');
 
 const domain = '點看';

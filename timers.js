@@ -17,7 +17,7 @@ var myInt = setInterval(function (){
 
 /*
 Some other methods/functions that are present in the Timers module are;
-
+ 
 clearImmediate()	Cancels an Immediate object
 clearInterval()	Cancels an Interval object
 clearTimeout()	Cancels a Timeout object

@@ -17,7 +17,7 @@ var b = Buffer('abc');
 console.log(b); // write buffer
 console.log(d.write(b)); // write decoded buffer;
 
-/*
+/* 
 Some other methods/functions that are present in the String_decoder module are;
 
 end()	Returns what remains of the input stored in the internal buffer

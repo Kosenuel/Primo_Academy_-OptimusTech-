@@ -14,7 +14,7 @@ var w3 = dns.lookup('w3schools.com', function(err, addresses, family){
     console.log(addresses);
 });
 
-
+ 
 
 /*
 Some other methods avaiolable in this module includes;

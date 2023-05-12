@@ -17,7 +17,7 @@ eventEmmiter.on('scream', function(){
     console.log('A scream is detected!');
 });
 eventEmitter.emit('scream');
-
+ 
 
 
 /*

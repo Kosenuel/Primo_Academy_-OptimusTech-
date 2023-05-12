@@ -43,4 +43,4 @@ inflateRawSync()	Decompress a string or buffer, syncronously, using InflateRaw
 unzip()	Decompress a string or buffer, using Unzip
 unzipSync()	Decompress a string or buffer, syncronously, using
 
-*/
+*/ 

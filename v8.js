@@ -18,7 +18,7 @@ console.log(heapStatistics);
 
 /*
 Some other methods/functions that are present in the V8 module are;
-
+ 
 v8.getHeapStatistics(): Returns an object with information about the current memory usage and heap statistics of the V8 engine.
 
 v8.getHeapSpaceStatistics(): Returns an array of objects containing information about each space in the V8 heap.

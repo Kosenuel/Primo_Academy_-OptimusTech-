@@ -13,7 +13,7 @@ The following code will extract the filename from a file path;
 var filename = path.basename('C:\Users\Emmanuel\Desktop\My Vs Codes\AnotherTest.js');
 console.log(filename);
 
-
+ 
 /*
 Some other methods/functions that are present in the Path module are;
 

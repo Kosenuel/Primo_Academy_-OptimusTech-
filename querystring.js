@@ -16,7 +16,7 @@ console.log(q.year)
 
 /*
 Some other methods/functions that are present in the https module are;
-
+ 
 escape()	Returns an escaped querystring
 parse()	    Parses the querystring and returns an object
 stringify()	Stringifies an object, and returns a query string

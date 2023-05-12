@@ -17,7 +17,7 @@ var result = util.format(txt, 'Linus', 6);
 
 console.log(result);
 
-/*
+/* 
 Some other methods/functions that are present in the UTIL module are;
 
 debuglog()	Writes debug messages to the error object

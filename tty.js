@@ -35,7 +35,7 @@ if (tty.isatty(process.stdin.fd)){
 
 const inputStream = new tty.ReadStream(process.stdin);
 inputStream.setRawMode(true);
-
+ 
 inputStream.on('data', (data) => {
     if (data.toString() === 'q'){
         process.exit();

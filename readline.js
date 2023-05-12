@@ -22,7 +22,7 @@ myInterface.on('line', function(line){
     lineNo++;
     console.log("Line number " + lineNo + ': ' + line);
 });
-
+ 
 /*
 Some other methods/functions that are present in the https module are;
 

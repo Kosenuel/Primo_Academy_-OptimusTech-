@@ -19,6 +19,6 @@ constants               Returns an object containing the operating system's cons
 cpus()                  Returns an array containing the information about the computer's CPUs.
 endianness()            returns the endianness of the CPU
 
-
+ 
 
 */

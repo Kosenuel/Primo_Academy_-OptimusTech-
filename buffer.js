@@ -15,8 +15,7 @@ console.log(buff);
 
 // or, to create an empty buffer of the length '15', do;
 var buff = Buffer.alloc(15);
-
-
+ 
 /*
 Other methods/properties included in the "Buffer" Module includes;
 
